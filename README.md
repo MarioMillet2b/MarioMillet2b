@@ -17,6 +17,19 @@ Diseño y construyo software desde el proceso de negocio hasta la implementació
 - **Integración y automatización:** servicios conectados, webhooks, WhatsApp Business e IA aplicada a procesos.
 - **Software empresarial:** desarrollo Odoo a medida, modernización y migraciones de aplicaciones y datos.
 
+<!-- GENERATED FULL STACK PROJECTS -->
+## Proyectos full stack
+
+**[Hipersitio](https://hipersitio.com/)** · Ecosistema SaaS y presencia web<br>
+Desarrollo del ecosistema web, con aplicaciones Next.js y una plataforma de catálogos multi-tenant. Despliegue y configuración de CI/CD, DNS y certificados SSL.<br>
+Next.js · React · TypeScript · PostgreSQL · Prisma
+
+**italian-store** · eCommerce de cashmere · Marca prevista: Floro Milano<br>
+Tienda de ropa de cashmere con Laravel y React/TypeScript; panel de administración Filament y pagos con Stripe Checkout.<br>
+Laravel · React / TypeScript · Inertia · Filament · Stripe
+
+<!-- END GENERATED FULL STACK PROJECTS -->
+
 ## Experiencia que respalda el trabajo
 
 **DESOFT · Arquitecto de Software / Desarrollador Odoo · Abr 2023–actualidad**  
@@ -35,10 +48,10 @@ APIs, integración frontend y funcionalidades llevadas a producción en proyecto
 
 | Contexto | Herramientas |
 | --- | --- |
-| Web | TypeScript · JavaScript · Next.js · Angular · HTML · CSS |
-| Backend e integración | Python · Node.js · NestJS · Django REST Framework · REST · Webhooks |
+| Web | React · TypeScript · JavaScript · Next.js · Angular · Tailwind CSS · HTML · CSS |
+| Backend e integración | Python · Node.js · NestJS · Django REST Framework · PHP · Laravel · REST · Webhooks |
 | Sistemas empresariales | Odoo 9, 12, 14–19 · OWL · XML / QWeb · JSON-RPC |
-| Datos e infraestructura | PostgreSQL · AlloyDB · MySQL · SQL Server · Docker · Linux · Traefik · Git |
+| Datos e infraestructura | PostgreSQL · AlloyDB · Prisma · MySQL · SQL Server · Docker · Linux · Traefik · Git · CI/CD · DNS · SSL |
 | IA aplicada | Integración de LLMs · MCP · Chatbots · WhatsApp Business |
 
 ## Código abierto
