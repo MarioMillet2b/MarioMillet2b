@@ -24,7 +24,7 @@ Diseño y construyo software desde el proceso de negocio hasta la implementació
 Desarrollo del ecosistema web, con aplicaciones Next.js y una plataforma de catálogos multi-tenant. Despliegue y configuración de CI/CD, DNS y certificados SSL.<br>
 Next.js · React · TypeScript · PostgreSQL · Prisma
 
-**italian-store** · eCommerce de cashmere · Marca prevista: Floro Milano<br>
+**Floro Milano** · eCommerce de ropa de cashmere<br>
 Tienda de ropa de cashmere con Laravel y React/TypeScript; panel de administración Filament y pagos con Stripe Checkout.<br>
 Laravel · React / TypeScript · Inertia · Filament · Stripe
 
